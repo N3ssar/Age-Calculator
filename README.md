@@ -5,7 +5,7 @@ Sure! Here’s the updated README file in English, with a placeholder for a prev
 ## Description
 The Age Calculator is a modern web application that allows users to input their birth date (day, month, and year) and calculates their age in years. This project aims to provide a clean, user-friendly interface with real-time validation, ensuring that users can easily determine their age while receiving immediate feedback on their input.
 
-![Preview Image](ageCalculator.jpg) <!-- Replace with the actual path to the preview image -->
+![Preview Image](ageCalculator.png) <!-- Replace with the actual path to the preview image -->
 
 ## Features
 - **Responsive Design:** The application is fully responsive, providing an optimal user experience on both desktop and mobile devices.
